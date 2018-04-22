@@ -1,0 +1,2 @@
+# image
+bug图片
